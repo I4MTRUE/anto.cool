@@ -1,4 +1,5 @@
-var DatecountDown = new Date("Dec 20, 2021 23:00:00").getTime();
+//faudrait vérifier le fuseau horaire mais c'est proba Greenwich
+var DatecountDown = new Date("Nov 21, 2020 00:00:00").getTime();
 
 var x = setInterval(function() {
 
